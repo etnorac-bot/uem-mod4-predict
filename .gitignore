@@ -1,3 +1,5 @@
 /my_venv/*
 /.idea/*
 **/__pycache__/*
+/env/
+vcap-local.json
